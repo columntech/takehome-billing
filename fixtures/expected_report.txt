@@ -1,0 +1,5 @@
+INVOICE 0001 | MATCHED | expected 1,250.90 | received 1,250.90
+INVOICE 0002 | MISMATCH | expected 3,480.00 | received 3,240.00
+INVOICE 0003 | MATCHED | expected 872.55 | received 872.55
+INVOICE 0004 | PENDING | expected 1,590.75 | received 0.00
+INVOICE 0005 | DUPLICATED | expected 2,000.00 | received 1,000.00
