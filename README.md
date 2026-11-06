@@ -77,3 +77,5 @@ your submission.
 - Readable code > clever code. Well-named types/dataclasses are welcome.
 - You're free to add files; the entrypoint stays `reconcile.py`.
 - Questions about the brief? Ping Marina on chat — she replies fast.
+
+> Last brief revision: Nov 06 (duplicate reference rule).
